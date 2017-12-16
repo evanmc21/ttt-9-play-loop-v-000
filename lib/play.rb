@@ -37,5 +37,9 @@ end
 
 # Define your play method below
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-def play(board)  
+def play(board)
+  counter = 1
+  until counter == 10
+    turn(board)
+  end
 end
