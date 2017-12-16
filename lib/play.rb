@@ -37,5 +37,5 @@ end
 
 # Define your play method below
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-def play(board)
+def play(board)  
 end
