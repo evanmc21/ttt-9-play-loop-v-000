@@ -36,7 +36,6 @@ def turn(board)
 end
 
 # Define your play method below
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def play(board)
   counter = 1
   until counter == 10
